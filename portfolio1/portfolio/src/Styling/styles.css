@@ -1,0 +1,100 @@
+/* font-family: 'Assistant', sans-serif;
+font-family: 'Lobster Two', cursive; */
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@200&family=Lobster+Two&display=swap');
+
+.header-logo {
+    font-family: 'Lobster Two', cursive;
+    font-size: 4.0rem;
+    text-align: left;
+    color: white;
+}
+.header-sub {
+    font-family: 'Assistant', sans-serif;
+    font-size: 1rem;
+    text-align: left;
+    color: white;
+
+}
+.header-container{
+    padding-left: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    background-color: #6ea9c4;
+}
+
+.page-title{
+    font-family: 'Lobster Two', cursive;
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    font-size: 2rem;
+}
+
+.navigation li{
+    display: inline-block;
+    padding-right: 2rem;
+    font-family: 'Assistant', sans-serif;
+    font-size: 1.2rem;
+    
+}
+.navigation{
+    text-align: center;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    background-color: #e0de8d;
+}
+
+.link-article{
+    text-decoration: none;
+    font-family: "Assistant", sans-serif;
+    font-size: 1.4rem;
+    font-weight: bold;
+    padding-right: 1.4rem;
+    
+}
+
+.description-website{
+    font-family: "Assistant", sans-serif;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.article-container{
+    width: 550px;
+    padding-left: 3rem;
+    padding-bottom: 1.5rem;
+}
+
+.screenshot-website{
+    max-width: 550px;
+}
+
+.links-container{
+    text-align: center;
+}
+
+.socials-list li{
+    display: inline-block;
+    padding-right: 1rem;
+    font-size: 1.2rem;
+    transition: 1s;
+}
+
+.socials-list{
+    float:right;
+    left: 75%;
+    line-height: 10;
+    padding-right: 1rem;
+    
+}
+
+.socials-list li a img {
+    filter:invert(100%)
+}
+
+.socials-list li:hover{
+    transform: scale(1.2)
+}
+@keyframes socials-hover{
+
+}
