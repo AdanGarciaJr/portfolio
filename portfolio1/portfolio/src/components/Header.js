@@ -1,10 +1,12 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import '../Styling/styles.css'
 import Photo from '../images/diaphragm.png'
 import Github from '../images/github.png'
 import Linked from '../images/linkedin.png'
 import Sound from '../images/soundcloud-logo.png'
 import Youtube from '../images/youtube.png'
+
 
 const Header = props => {
     return(

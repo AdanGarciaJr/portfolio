@@ -7,6 +7,7 @@ import Header from './components/Header'
 
 function App() {
   return (
+    <body>
     <Router>
         <Header />
         <Navigation />
@@ -14,6 +15,7 @@ function App() {
           <Routes />
         </main>
     </Router>
+    </body>
   );
 }
 

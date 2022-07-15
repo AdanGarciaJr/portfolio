@@ -6,10 +6,9 @@ const Navigation = props => {
     return(
         <section>
             <ul className="navigation">
-                <li ><NavLink to="/home">Portfolio</NavLink></li>
-                <li ><NavLink to="/contact">Contact</NavLink></li>
-                <li ><NavLink to="/UserAccount">Account</NavLink></li>
-                <li ><NavLink to="/About">About</NavLink></li>
+                <li ><NavLink className='link-react' to="/home">Portfolio</NavLink></li>
+                <li ><NavLink className='link-react' to="/About">About</NavLink></li>
+                <li ><NavLink className='link-react' to="/contact">Contact</NavLink></li>
             </ul>
         </section>
     )
