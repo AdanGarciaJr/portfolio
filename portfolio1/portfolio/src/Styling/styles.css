@@ -126,8 +126,8 @@ body{
     background-size: cover;
 }
 
-.portfolio-articles-list li{
-    display: inline-block;
+.portfolio-articles-list article{
+    display: block;
     /* position:absolute; */
     list-style: none;
     padding-right: 3rem;
@@ -136,12 +136,10 @@ body{
     margin-right: auto;
 }
 .portfolio-articles-list{
-    display: table;
-    /* text-align: center; */
-    text-align: center;
-    list-style-position: inside;
-    margin: 0px;
-    padding: 0px;
+    display: block;
+    margin: auto;
+    padding: auto;
+
 }
 
 .link-react{
@@ -195,6 +193,10 @@ body{
 
 .headshot{
     max-width: 200px;
+    max-height: 200px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #ebb237;
 }
 .aboutMe-container{
     background-color: white;
@@ -226,4 +228,31 @@ body{
     padding-top: 2rem;
     padding-left: 1rem;
     padding-right: 1rem;
+}
+
+.moreAboutMe-container{
+    background-color: white;
+    display: block;
+    margin-bottom: 2rem;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    border-style: solid;
+    border-width: 10px;
+    border-color: #2e6de4;
+}
+.moreAboutMe-title{
+    text-align: center;
+    font-family: "Lobster Two", sans-serif;
+    font-size: 2.4rem;
+    padding:1rem;
+}
+.spirits-video{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #ebb237;
 }
