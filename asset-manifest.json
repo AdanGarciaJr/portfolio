@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.8de9a24d.css",
+    "main.js": "/portfolio/static/js/main.c9768960.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/aidehn.png": "/portfolio/static/media/aidehn.9c9c4906df36b1021839.png",
+    "static/media/cinepho.png": "/portfolio/static/media/cinepho.6fe439fd730c35ea7fd7.png",
+    "static/media/creativepro.png": "/portfolio/static/media/creativepro.c016aae2af958da70588.png",
+    "static/media/adan.png": "/portfolio/static/media/adan.8efe8d23c3db56b0d8d4.png",
+    "static/media/background.jpeg": "/portfolio/static/media/background.d996077f9124e1566b8f.jpeg",
+    "static/media/github.png": "/portfolio/static/media/github.44eee0c4a6c25b0d7347.png",
+    "static/media/diaphragm.png": "/portfolio/static/media/diaphragm.89bd5f444775d12ab675.png",
+    "static/media/soundcloud-logo.png": "/portfolio/static/media/soundcloud-logo.9e9865258e3a8512c5ea.png",
+    "static/media/youtube.png": "/portfolio/static/media/youtube.0b7c86fba1fbc433f761.png",
+    "static/media/linkedin.png": "/portfolio/static/media/linkedin.92380c03cc82f139a166.png",
+    "index.html": "/portfolio/index.html",
+    "main.8de9a24d.css.map": "/portfolio/static/css/main.8de9a24d.css.map",
+    "main.c9768960.js.map": "/portfolio/static/js/main.c9768960.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8de9a24d.css",
+    "static/js/main.c9768960.js"
+  ]
+}
