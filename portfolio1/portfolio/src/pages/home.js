@@ -33,10 +33,11 @@ const Home = props => {
                         <article className="article-container">
                             <img className="screenshot-website" src={CreativePro} alt="Site screenshot"/>
                             <div className="links-container">
-                                <a className="link-article" href="https://adangarciajr.github.io/aidehn/">Aidehn Pages Link</a>
-                                <a className="link-article" href="https://github.com/AdanGarciaJr/aidehn.git">Aidehn GitHub Link</a>
+                                <a className="link-article" href="https://adangarciajr.github.io/ProfessionalBlogger/">CreativePRO Pages Link</a>
+                                <a className="link-article" href="https://github.com/AdanGarciaJr/ProfessionalBlogger.git">CreativePRO GitHub Link</a>
                             </div>
-                            <p className="description-website">Side project I've been working on that showcases some of the stuff I've worked on.</p>
+                            <p className="description-website">A site that conatins blogs from a professional photographer, cinematographer, and producer. The site fetches blogs 
+                            from an api and posts them on the site.</p>
                         </article>
                     
                         <article className="article-container">

@@ -21,6 +21,7 @@ font-family: 'Lobster Two', cursive; */
     padding-top: 2rem;
     padding-bottom: 2rem;
     background-color: #2e6de4;
+    
 }
 
 .page-title{
@@ -62,7 +63,7 @@ font-family: 'Lobster Two', cursive; */
 }
 
 .article-container{
-    width: 550px;
+    width: 700px;
     padding: 2rem;
     margin-left: 20%;
     border-style: solid;
@@ -256,3 +257,4 @@ body{
     border-width: 5px;
     border-color: #ebb237;
 }
+
